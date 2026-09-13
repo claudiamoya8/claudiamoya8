@@ -2,11 +2,11 @@
 
 Mathematical Engineering and Artificial Intelligence student at ICAI – Universidad Pontificia Comillas.
 
-I enjoy turning mathematical ideas into clear, reproducible data and AI projects. I am particularly drawn to machine learning, data analysis, graph-based methods and quantitative modelling.
+Interested in machine learning, artificial intelligence, data science and quantitative modelling, with hands-on experience in Python, ML pipelines, graph algorithms, databases and LLM evaluation.
 
-I'm currently looking for a Summer 2027 internship where I can contribute to data, machine-learning or AI projects while learning in a collaborative, real-world environment.
+I'm currently looking for a **Summer 2027 internship** in Data, Machine Learning, AI or quantitative/analytical roles.
 
-Alongside my studies, I participated in the ESIMAIR LLM Syllogisms research line, evaluating the logical-reasoning capabilities of language models. This experience strengthened my interest in artificial intelligence, data analysis and research.
+I also participated in the **ESIMAIR LLM Syllogisms research line**, evaluating the logical-reasoning capabilities of large language models using datasets such as FOLIO and RuleTaker.
 
 ## Featured projects
 

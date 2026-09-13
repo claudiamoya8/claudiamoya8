@@ -14,7 +14,11 @@ Alongside my studies, I participated in the ESIMAIR LLM Syllogisms research line
 
 - [Madrid Route Planner](https://github.com/claudiamoya8/custom-gps-route-planner) — Graph-based navigation system using official address data, OpenStreetMap and custom shortest-path algorithms. Developed jointly with Rodrigo Sicilia.
 
-- [Amazon Reviews Data Platform](https://github.com/claudiamoya8/amazon-reviews-database-platform) — Hybrid MySQL, MongoDB and Neo4j platform for analysing Amazon reviews, visualisation and recommendation systems. Developed jointly with Rodrigo Sicilia.
+- [Amazon Reviews Data Platform](https://github.com/rodrigosicilia/amazon-reviews-database-platform) — Hybrid MySQL, MongoDB and Neo4j platform for analysing Amazon reviews, visualisation and recommendation systems. Developed jointly with Rodrigo Sicilia.
+
+- [Intelligent Agents, Search & MDP](https://github.com/claudiamoya8/intelligence-agent-search-mdp) — Artificial intelligence project covering intelligent agents, search algorithms, Bayesian inference and Markov decision processes.
+
+- [RSA from Scratch](https://github.com/rodrigosicilia/rsa-from-scratch) — Pure-Python implementation of RSA, including number-theory algorithms, key generation, decimal padding and chosen-plaintext attacks.
 
 ## Technical interests
 
